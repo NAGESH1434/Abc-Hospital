@@ -1,0 +1,26 @@
+/* Styling to the Hospital Page */
+header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+a {
+    color: white;
+    
+}
+footer {
+    background-color: rgb(13, 13, 199);
+    color: white;
+    text-align: center;
+}
+.class1 {
+    line-height:50px;
+    width: -550px;
+     
+}
+.class2 {
+    background-color: blue;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+}
