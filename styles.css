@@ -4,6 +4,9 @@ header {
     color: white;
     text-align: center;
     align-items: center;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    text-decoration: none;
 }
 a {
     color: white;
@@ -22,5 +25,11 @@ footer {
 .class2 {
     background-color: blue;
     color: white;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 0.5px;
+}
+.himage {
+    margin: 10px 10px 10px 10px;
+}
+.sp1 {
+    text-decoration: none;
 }
