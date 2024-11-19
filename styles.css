@@ -16,6 +16,8 @@ footer {
     background-color: rgb(13, 13, 199);
     color: white;
     text-align: center;
+    padding: 10px;
+    margin-top: 350px;
 }
 .class1 {
     line-height:50px;
@@ -26,10 +28,41 @@ footer {
     background-color: blue;
     color: white;
     -webkit-text-stroke-width: 0.5px;
+    margin-top: 5px;
 }
 .himage {
     margin: 10px 10px 10px 10px;
 }
-.sp1 {
+.sp1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.sp1 a{
     text-decoration: none;
+}
+/*.form-control{
+    display:block;width:100%;padding:.375rem .275rem; 
+} */
+span a:hover{
+    color: rgb(234, 255, 0);
+}
+#img1{
+    height: 400px;
+    width: 800px;
+}
+.spac1 {
+    padding: 20px;
+    margin: 30px;
+}
+.isize {
+     width: 710%;
+     margin: top 2px;
+     margin-bottom: 10px;
+     margin-top: 5px;
+     margin-left: 30px;
+}
+.blab {
+    font-weight: bold;
+    margin-left: 30px;
 }
